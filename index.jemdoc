@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{index.html}, showsource
+= Home
+
+
+~~~
+{}{img_left}{me.jpeg}{Anil Saini}{150px}{150px}{}
+
+== Anil Kumar Saini    
+Graduate student\n     
+[https://www.cics.umass.edu/ College of Information and Computer Sciences]\n     
+University of Massachusetts Amherst\n      
+Advisor: [http://faculty.hampshire.edu/lspector/ Lee Spector]\n  
+
+~~~    
+
+
+== About Me
+I am a graduate student in the College of Information and Computer Sciences at the Universtity of Massachusetts Amherst. I completed my B. Tech. in Computer Science and Engineering from the Indian Institute of Technology Roorkee, India.
+
+I am interested in Genetic Programming, Evolutionary Computation, and Computational Social Science.
+
+
+
